@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/dylanw/GeldAutomaat/GeldAutomaat/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/dylanw/GeldAutomaat/GeldAutomaat/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/GeldAutomaat.app
